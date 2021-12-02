@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/DimitriGoderidze94/Random-Dogs.git/static/css/main.2d4f31cd.chunk.css",
-    "main.js": "/DimitriGoderidze94/Random-Dogs.git/static/js/main.ed78a9e1.chunk.js",
-    "main.js.map": "/DimitriGoderidze94/Random-Dogs.git/static/js/main.ed78a9e1.chunk.js.map",
-    "runtime-main.js": "/DimitriGoderidze94/Random-Dogs.git/static/js/runtime-main.5afef38f.js",
-    "runtime-main.js.map": "/DimitriGoderidze94/Random-Dogs.git/static/js/runtime-main.5afef38f.js.map",
-    "static/js/2.5a45251c.chunk.js": "/DimitriGoderidze94/Random-Dogs.git/static/js/2.5a45251c.chunk.js",
-    "static/js/2.5a45251c.chunk.js.map": "/DimitriGoderidze94/Random-Dogs.git/static/js/2.5a45251c.chunk.js.map",
-    "static/js/3.e833f226.chunk.js": "/DimitriGoderidze94/Random-Dogs.git/static/js/3.e833f226.chunk.js",
-    "static/js/3.e833f226.chunk.js.map": "/DimitriGoderidze94/Random-Dogs.git/static/js/3.e833f226.chunk.js.map",
-    "index.html": "/DimitriGoderidze94/Random-Dogs.git/index.html",
-    "static/css/main.2d4f31cd.chunk.css.map": "/DimitriGoderidze94/Random-Dogs.git/static/css/main.2d4f31cd.chunk.css.map",
-    "static/js/2.5a45251c.chunk.js.LICENSE.txt": "/DimitriGoderidze94/Random-Dogs.git/static/js/2.5a45251c.chunk.js.LICENSE.txt"
+    "main.css": "/https://dimitrigoderidze94.github.io/Random-Dogs/static/css/main.2d4f31cd.chunk.css",
+    "main.js": "/https://dimitrigoderidze94.github.io/Random-Dogs/static/js/main.5cee516e.chunk.js",
+    "main.js.map": "/https://dimitrigoderidze94.github.io/Random-Dogs/static/js/main.5cee516e.chunk.js.map",
+    "runtime-main.js": "/https://dimitrigoderidze94.github.io/Random-Dogs/static/js/runtime-main.4f5891dc.js",
+    "runtime-main.js.map": "/https://dimitrigoderidze94.github.io/Random-Dogs/static/js/runtime-main.4f5891dc.js.map",
+    "static/js/2.5a45251c.chunk.js": "/https://dimitrigoderidze94.github.io/Random-Dogs/static/js/2.5a45251c.chunk.js",
+    "static/js/2.5a45251c.chunk.js.map": "/https://dimitrigoderidze94.github.io/Random-Dogs/static/js/2.5a45251c.chunk.js.map",
+    "static/js/3.e833f226.chunk.js": "/https://dimitrigoderidze94.github.io/Random-Dogs/static/js/3.e833f226.chunk.js",
+    "static/js/3.e833f226.chunk.js.map": "/https://dimitrigoderidze94.github.io/Random-Dogs/static/js/3.e833f226.chunk.js.map",
+    "index.html": "/https://dimitrigoderidze94.github.io/Random-Dogs/index.html",
+    "static/css/main.2d4f31cd.chunk.css.map": "/https://dimitrigoderidze94.github.io/Random-Dogs/static/css/main.2d4f31cd.chunk.css.map",
+    "static/js/2.5a45251c.chunk.js.LICENSE.txt": "/https://dimitrigoderidze94.github.io/Random-Dogs/static/js/2.5a45251c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5afef38f.js",
+    "static/js/runtime-main.4f5891dc.js",
     "static/js/2.5a45251c.chunk.js",
     "static/css/main.2d4f31cd.chunk.css",
-    "static/js/main.ed78a9e1.chunk.js"
+    "static/js/main.5cee516e.chunk.js"
   ]
 }
