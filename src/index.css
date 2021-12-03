@@ -9,6 +9,7 @@ body {
   display: inline-block;
   background-color: rgb(238, 130, 238);
   text-transform: capitalize;
+  width: 95vw;
 }
 
 h1 {
